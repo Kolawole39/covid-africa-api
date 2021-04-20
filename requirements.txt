@@ -37,7 +37,7 @@ pendulum==1.5.1
 pluggy==0.13.1
 psutil==5.6.7
 psycopg2-binary==2.8.5
-py==1.8.1
+py==1.10.0
 pyaml==16.12.2
 pycodestyle==2.5.0
 pycparser==2.20
