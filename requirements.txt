@@ -60,7 +60,7 @@ tabulate==0.8.7
 text-unidecode==1.2
 tldextract==2.2.2
 tzlocal==1.5.1
-urllib3==1.25.8
+urllib3==1.26.5
 waitress==1.4.3
 wcwidth==0.1.9
 whitenoise==4.1.4
